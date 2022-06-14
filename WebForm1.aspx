@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
         <div>
                 Hello Git!
+                New Line added in master
         </div>
     </form>
 </body>
